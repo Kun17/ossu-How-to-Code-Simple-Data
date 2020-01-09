@@ -1,0 +1,6 @@
+============================================
+Course 1, 2020-1-8
+============================================
+Program is created to solve problems, and developers are often given vague and inconsistent descriptions. 
+The first step is to figure out the purpose of the program!
+
